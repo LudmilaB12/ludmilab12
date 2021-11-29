@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ludmila</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate frontend developer :heart: from Argentina 🇦🇷</h3>
 
 - 🔭 I’m currently working on [Coding To Help ONG-APP](https://github.com/MDVeloper/ong-client)
 
