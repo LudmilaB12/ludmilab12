@@ -1,9 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ludmila</h1>
 <h3 align="center">A passionate frontend developer :heart: from Argentina :argentina: </h3>
 
-- 🔭 I’m currently working on [Coding To Help ONG-APP](https://github.com/MDVeloper/ong-client)
+</br>
 
-- 🌱 I’m currently learning **SASS y TypeScript**
+- 🔭 I’m currently working on [Coding To Help ONG-APP](https://github.com/MDVeloper/ong-client)
+<p> 
+  <a><img width="20%" src="https://github.com/LudmilaB12/ludmilab12/blob/main/imagenes/About%20Us%20y%20FAQ.png"></a>
+  <a><img width="20%" src="https://github.com/LudmilaB12/ludmilab12/blob/main/imagenes/Donacion.png"></a>
+  <a><img width="20%" src="https://github.com/LudmilaB12/ludmilab12/blob/main/imagenes/Proyectos.png"></a>
+</p>
+
+</br>
+
+- 🌱 My favorite proyect: [The Doggy Page](https://github.com/LudmilaB12/PI-Dogs)
+
+<p>
+  <a><img width="20%" src="https://github.com/LudmilaB12/ludmilab12/blob/main/imagenes/Desktop%20-%201.png"></a>
+  <a><img width="20%" src="https://github.com/LudmilaB12/ludmilab12/blob/main/imagenes/Desktop%20-%202.png"></a>
+  <a><img width="20%" src="https://github.com/LudmilaB12/ludmilab12/blob/main/imagenes/Desktop%20-%203.png"></a>
+</p>
+
+</br>
 
 - 📫 How to reach me **ludmilabalbiserrentino@gmail.com**
 
